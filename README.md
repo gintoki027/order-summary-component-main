@@ -12,4 +12,4 @@ Dummy order summary page.
 
 ## Live site:
 
-[Order Summary](https://riturajcode.github.io/order-summary-component-main/)
+[Order Summary](https://gintoki027.github.io/order-summary-component-main/)
